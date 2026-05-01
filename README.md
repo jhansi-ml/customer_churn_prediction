@@ -1,4 +1,4 @@
-#Tele_customer_churn_prediction 
+# Tele_customer_churn_prediction 
 
 **📌 Overview**  
 This project is an end-to-end Machine Learning application that predicts whether a telecom customer is likely to churn (leave the service) or not.
