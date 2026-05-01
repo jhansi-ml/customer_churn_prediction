@@ -66,7 +66,7 @@ Input
 Output   
 {  
   "prediction":1,  
-  "probability":0.6 
+  "probability":0.6  
 }  
 
 👨‍💻 Author  
