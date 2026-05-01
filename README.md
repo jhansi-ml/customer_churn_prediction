@@ -1,5 +1,6 @@
-#Tele_customer_churn_prediction  
-**📌 Overview**
+#Tele_customer_churn_prediction 
+
+**📌 Overview**  
 This project is an end-to-end Machine Learning application that predicts whether a telecom customer is likely to churn (leave the service) or not.
 
 **It includes:**  
@@ -15,7 +16,7 @@ Prediction logging using SQLite
 👉 API Documentation (Swagger UI):  
 👉 https://customer-churn-prediction-pm2f.onrender.com/docs  
 
-**🛠️ Tech Stack**
+**🛠️ Tech Stack**  
 Python  
 Pandas / NumPy  
 Scikit-learn  
@@ -24,7 +25,7 @@ SQLite
 Joblib  
 Render (Deployment)  
 
-**Project structure**
+**Project structure**  
 📁customer_churn.ipynb       #Model training script    
 📁customer_api.py            #FastAPI app    
 📁model.pkl                  #Trained ML model    
