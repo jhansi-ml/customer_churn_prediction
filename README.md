@@ -62,8 +62,7 @@ Input
             "PaymentMethod": "Bank transfer (automatic)",  
             "MonthlyCharges": 70.70,  
             "TotalCharges": 151.65  
-            }  
-}  
+            }   
 Output   
 {  
   "prediction":1,  
