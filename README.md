@@ -69,7 +69,7 @@ Output
   "probability":0.6  
 }  
 
-👨‍💻 Author  
+👨‍💻 **Author**  
 Jhansi Konamoni  
 GitHub: https://github.com/jhansi-ml  
 LinkedIn: https://www.linkedin.com/in/jhansi-konamoni  
