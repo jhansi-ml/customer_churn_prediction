@@ -68,3 +68,8 @@ Output
   "prediction":1,  
   "probability":0.6 
 }  
+
+👨‍💻 Author  
+Jhansi Konamoni  
+GitHub: https://github.com/jhansi-ml  
+LinkedIn: https://www.linkedin.com/in/jhansi-konamoni  
